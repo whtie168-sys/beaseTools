@@ -1,0 +1,6 @@
+framework module Pods_beaseTools {
+  umbrella header "Pods-beaseTools-umbrella.h"
+
+  export *
+  module * { export * }
+}
